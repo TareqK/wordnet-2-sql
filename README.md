@@ -2,4 +2,4 @@
 A wordnet 2.0 xml to sql converter
 
 ### Useage
-./wn2sql <xml_input> <sql_output>
+./wn2sql.py <xml_input> <sql_output>
